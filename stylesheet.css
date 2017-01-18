@@ -1,0 +1,55 @@
+
+.wrapper{
+	margin-left: 20px;
+	border: 2px solid green;
+
+}
+
+
+.container-fluid{
+	background-image: url(../images/headerbg.png);
+	border: 2px solid black;
+}   
+
+
+.thumbnail a>img, .thumbnail>img {
+	width: 80%;
+}
+
+
+.icon-menu{
+	float: right;
+	border: 2px solid black;
+	margin-top: 20px;
+	color: inherit;
+	padding-right: 10px;
+}
+
+.icon-menu i{
+	
+	color: inherit;
+	padding-right: 20px;
+}
+
+.row h3{
+	float: left;
+	border: 2px solid blue;
+	margin-top: 20px;
+}
+
+#carousel-example-generic{
+	
+	border: 2px solid orange;
+	width: 100%;
+
+}
+
+.content_section{
+	background-image: url(../images/headerbg.png);
+	border: 2px solid black;
+} 
+
+
+.inner-row img{
+	border: 2px solid pink;
+}  
